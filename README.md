@@ -40,6 +40,6 @@ Cauã Victor Moura
 
 Anna Lua Frisa
 
-https://www.linkedin.com/in/pairon03  
+https://www.linkedin.com/in/cau%C3%A3-moura-4151a822a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-https://www.linkedin.com/in/AnnaLua
+https://www.linkedin.com/in/anna-lua-frisa-franzati-605736241/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
