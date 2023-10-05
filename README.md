@@ -7,7 +7,7 @@ https://pairon03.github.io/site-certo/
 
 Educação Física na infância é uma aplicação de HTML e CSS construída durante as aulas  da **Programação Unimetrocamp** (#sds1), organizado e produzido com o intuito de desenvolver e criar um website responsivo
 
-A aplicação consiste em uma montagem de website contendo informações a respeito da educação fisica durante o perido de desenvolvimento das crianças, onde os dados são mostrados com exemplos e estasticas, e depois são listados no app web, que também apresenta algunmas das "modalidades".
+A aplicação consiste em uma montagem de website contendo informações a respeito da educação fisica durante o perido de desenvolvimento das crianças, onde os dados são mostrados com exemplos e estasticas, e depois são listados no app web, que também apresenta algumas das "modalidades".
 
 ## Layout 
 ![Web 1](https://github.com/Pairon03/imagens/blob/main/part1%20pairon.png)
