@@ -112,4 +112,10 @@ ul li {
     font-family: white;
     font-weight: 400;
 }
-        
+
+header img {
+    width: 1000px;
+    height: 500px;
+    border: 5px solid black;
+}
+
