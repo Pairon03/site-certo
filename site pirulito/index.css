@@ -3,7 +3,10 @@ body {
     background-color: papayawhip;
     font-family: Arial, Helvetica, sans-serif;
 } 
-
+.center {
+        text-align: center;
+        text-justify: inter-word;
+}
 footer img {
     width: 40px;
     height: 40px;
@@ -33,10 +36,12 @@ p {
     text-align: justify;
 }
 ul {
+    display: flex;
+    justify-content: space-between;
     list-style-type: none;
-    padding: 0;
-    margin: 0;
+    padding: 16px;
 }
+
 ul li {
     display: block;
     margin-bottom: 10px;
