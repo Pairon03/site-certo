@@ -141,16 +141,3 @@ ul li {
     .container {
         padding: 0px 20px;
 
-/* Adicione este código ao final do arquivo CSS */
-
-@media (max-width: 767px) {
-    .foto-div {
-        width: 100%;
-        height: auto;
-    }
-
-    .foto-div img {
-        width: 100%; 
-        height: auto; 
-    }
-}
