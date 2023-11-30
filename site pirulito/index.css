@@ -113,9 +113,4 @@ ul li {
     font-family: white;
     font-weight: 400;
 }
-@media screen and (max-width: 768px) {
-    .container {
-        padding: 0px 20px;
-    }
-    
         
